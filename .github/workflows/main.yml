@@ -23,7 +23,7 @@ jobs:
             target: MacOS
 
           - name: iOS
-            os: macos-15
+            os: macos-latest
             target: iOS
 
           - name: Android32
